@@ -1373,3 +1373,4 @@ function deleteReview(parentElem, outletHeader, outletId, reviewId){
 			}
 		});
 };
+#
