@@ -13,7 +13,6 @@ Icon?
 .package-lock.json
 *~
 
-
 # npm
 .*.log
 .*.gz
