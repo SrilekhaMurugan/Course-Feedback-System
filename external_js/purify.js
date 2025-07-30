@@ -1013,4 +1013,4 @@ var purify = createDOMPurify();
 return purify;
 
 })));
-//# sourceMappingURL=purify.js.map
+/* sourceMappingURL=purify.js.map */
