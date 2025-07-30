@@ -999,7 +999,6 @@ function createDOMPurify() {
   /**
    * RemoveAllHooks
    * Public method to remove all DOMPurify hooks
-   *
    */
   DOMPurify.removeAllHooks = function () {
     hooks = {};
