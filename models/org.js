@@ -119,11 +119,11 @@ module.exports.isPresentById = function(id, callback){
 }
 
 module.exports.addReviewByOrgId = function(orgId, reviewObj, callback){
-	// var reviewObj = new Review({
-	// 	customer : reviewObj.customer,
-	// 	rating : reviewObj.rating,
-	// 	comment : reviewObj.comment
-	// });
+	/* var reviewObj = new Review({
+	 	customer : reviewObj.customer,
+		rating : reviewObj.rating,
+	 	comment : reviewObj.comment
+	 }); */
 	var myObj = new Review({
 		customerUserName : reviewObj.customerUserName,
 		customerName : reviewObj.customerName,
